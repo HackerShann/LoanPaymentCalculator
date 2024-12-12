@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loanCalculator.cpp", "loanCalculator.cpp\loanCalculator.cpp.vcxproj", "{A160B9A7-767E-45C5-87E7-89BA58AD87D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Debug|x64.ActiveCfg = Debug|x64
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Debug|x64.Build.0 = Debug|x64
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Debug|x86.Build.0 = Debug|Win32
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Release|x64.ActiveCfg = Release|x64
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Release|x64.Build.0 = Release|x64
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Release|x86.ActiveCfg = Release|Win32
+		{A160B9A7-767E-45C5-87E7-89BA58AD87D3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28E18E9-26F4-4B94-B4C3-64DDC1719C2B}
+	EndGlobalSection
+EndGlobal
